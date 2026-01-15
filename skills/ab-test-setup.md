@@ -259,7 +259,7 @@ Variant (B):
 
 ### Client-Side Testing
 
-**Tools**: Optimizely, VWO, Google Optimize (sunset), custom
+**Tools**: PostHog, Optimizely, VWO, custom
 
 **How it works**:
 - JavaScript modifies page after load
@@ -273,7 +273,7 @@ Variant (B):
 
 ### Server-Side Testing
 
-**Tools**: LaunchDarkly, Split, custom
+**Tools**: PostHog, LaunchDarkly, Split, custom
 
 **How it works**:
 - Variant determined before page renders

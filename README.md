@@ -20,6 +20,7 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | [email-sequence](skills/email-sequence.md) | Build email sequences and drip campaigns | "email sequence," "drip campaign," "nurture" |
 | [seo-audit](skills/seo-audit.md) | Audit technical and on-page SEO | "SEO audit," "technical SEO," "not ranking" |
 | [programmatic-seo](skills/programmatic-seo.md) | Build SEO pages at scale | "programmatic SEO," "template pages," "pages at scale" |
+| [competitor-alternatives](skills/competitor-alternatives.md) | Competitor comparison and alternative pages | "vs page," "alternative page," "[X] vs [Y]," "competitor comparison" |
 | [schema-markup](skills/schema-markup.md) | Add structured data and rich snippets | "schema," "JSON-LD," "structured data" |
 | [analytics-tracking](skills/analytics-tracking.md) | Set up tracking and measurement | "tracking," "GA4," "GTM," "events" |
 | [ab-test-setup](skills/ab-test-setup.md) | Plan and implement A/B tests | "A/B test," "split test," "experiment" |
@@ -108,6 +109,7 @@ You can also invoke skills directly:
 ### SEO & Discovery
 - `seo-audit` - Technical and on-page SEO
 - `programmatic-seo` - Scaled page generation
+- `competitor-alternatives` - Comparison and alternative pages
 - `schema-markup` - Structured data
 
 ### Measurement & Testing
@@ -146,4 +148,6 @@ MIT - Use these however you want.
 
 ## Author
 
-Built for the marketing-minded builder who'd rather prompt than point-and-click.
+Built by [Corey Haines](https://corey.co) for the marketing-minded builder who'd rather prompt than point-and-click.
+
+Need hands-on marketing help? Check out [Conversion Factory](https://conversionfactory.co) — Corey's agency for conversion optimization, landing pages, and growth strategy.
