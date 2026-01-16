@@ -422,7 +422,18 @@ If you need more context:
 
 ## Related Skills
 
-- **page-copywriting**: For writing new copy (this skill is for editing existing copy)
+- **page-copywriting**: For writing new copy from scratch (use this skill to edit after your first draft is complete)
 - **page-cro**: For broader page optimization beyond copy
 - **marketing-psychology**: For understanding why certain edits improve conversion
 - **ab-test-setup**: For testing copy variations
+
+---
+
+## When to Use Each Skill
+
+| Task | Skill to Use |
+|------|--------------|
+| Writing new page copy from scratch | page-copywriting |
+| Reviewing and improving existing copy | copy-editing (this skill) |
+| Editing copy you just wrote | copy-editing (this skill) |
+| Structural or strategic page changes | page-cro |

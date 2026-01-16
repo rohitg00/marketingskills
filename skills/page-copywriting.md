@@ -66,80 +66,32 @@ Gather this context (ask if not provided):
 
 ## Writing Style Rules
 
-Follow these rules to write clear, confident, and compelling copy.
+Follow these core principles. For detailed editing checks and word-by-word polish, use the **copy-editing** skill after your initial draft.
 
-### Avoid Jargon
-Jargon confuses readers who aren't familiar with it. Use simple, descriptive language instead.
+### Core Style Principles
 
-❌ Revolutionize digital transformation with our all-in-one AI no-code platform
+1. **Simple over complex** — Use everyday words. "Use" instead of "utilize," "help" instead of "facilitate."
 
-✅ Replace your paper checklist with a smart mobile app
+2. **Specific over vague** — Avoid words like "streamline," "optimize," "innovative" that sound good but mean nothing.
 
-### Avoid Adverbs
-Adverbs sound vague and hollow. You end up telling instead of showing.
+3. **Active over passive** — "We generate reports" not "Reports are generated."
 
-❌ Instantly improve your workflow
+4. **Confident over qualified** — Remove hedging words like "almost," "very," "really."
 
-✅ Eliminate repetitive tasks so you can focus on what really matters
+5. **Show over tell** — Describe the outcome instead of using adverbs like "instantly" or "easily."
 
-### Avoid Qualifiers
-Qualifiers make your writing sound unsure. Be confident and direct.
+6. **Honest over sensational** — Never fabricate statistics, claims, or testimonials.
 
-❌ Almost unbreakable security
+### Quick Quality Check
 
-✅ Fort Knox-level protection of your data
+Before finalizing, scan for:
+- Jargon that could confuse outsiders
+- Sentences trying to do too much (max 3 conjunctions)
+- Passive voice constructions
+- Exclamation points (remove them)
+- Marketing buzzwords without substance
 
-### Avoid Vague Words
-Don't use words that sound nice but don't mean anything. Don't make readers interpret.
-
-❌ Streamline your business processes
-
-✅ Reduce the back and forth necessary to get on the same page
-
-### Use Active Voice
-Passive voice weakens your message. Keep everything in active voice.
-
-❌ Personalized reports are generated to fit your needs.
-
-✅ We generate personalized reports to match your unique needs.
-
-### Avoid Exclamation Points and Ellipses
-They weaken your copy and seem unprofessional.
-
-❌ Fort Knox-level protection of your data!
-
-✅ Fort Knox-level protection of your data
-
-### Avoid Run-On Sentences
-Don't write sentences with more than 3 conjunctions. Break them up.
-
-❌ With Slack, you can message your team, and stay updated on project progress, and quickly share files, and integrate with all your favorite tools, and customize notifications so you're always in the loop, no matter where you are.
-
-✅ Like group chat but for work — you'll feel like you're all in the same room even when you're halfway around the world.
-
-### Use Simple Words
-Complex words reduce readability. Always use the simpler alternative.
-
-| Instead of | Use |
-|------------|-----|
-| Utilize | Use |
-| Implement | Set up |
-| Leverage | Use |
-| Facilitate | Help |
-| Optimize | Improve |
-| Innovative | New |
-| Robust | Strong |
-| Seamless | Smooth |
-
-### No Sensational Language
-Don't try to make things sound more exciting than they are.
-
-❌ Seamlessly share files at the speed of light and watch your productivity soar to unimaginable heights!
-
-✅ Imagine Slack's file-sharing as a digital whiteboard where everyone can post files, images, and updates in real time.
-
-### Don't Fabricate
-Never make up statistics, claims, or testimonials. If you're unsure about something, indicate so clearly.
+For a thorough line-by-line review, run the copy through the **copy-editing** skill's Seven Sweeps framework.
 
 ---
 
@@ -496,6 +448,7 @@ Maintain consistency throughout, but adjust intensity:
 
 ## Related Skills
 
+- **copy-editing**: For polishing and improving existing copy (use after writing your first draft)
 - **page-cro**: If the page structure/strategy needs work, not just copy
 - **email-sequence**: For email copywriting
 - **popup-cro**: For popup and modal copy
